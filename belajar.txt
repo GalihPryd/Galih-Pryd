@@ -2,5 +2,6 @@ belajar
 1.javascript
 2.laravel
 3.Html & Css
-$.mysql Database
-6.flowchart
+5.mysql Database
+6.struktur data
+
